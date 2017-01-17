@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.androidhive.androidlistviewwithsearch.Home" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/Home.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="371" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.androidhive.androidlistviewwithsearch.NearYou" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/NearYou.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="513" y="3"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.androidhive.androidlistviewwithsearch.NearYou.ATMsFragment" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/NearYou.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="304" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.androidhive.androidlistviewwithsearch.NearYou.BanksFragment" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/NearYou.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="249" x="527" y="218"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.androidhive.androidlistviewwithsearch.NearYou.AppSectionsPagerAdapter" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/NearYou.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="885" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.androidhive.androidlistviewwithsearch.FindBanks" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FindBanks.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="958" y="674"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.androidhive.androidlistviewwithsearch.AccessBankBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/AccessBankBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="219" x="1108" y="415"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.androidhive.androidlistviewwithsearch.CitiBankBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/CitiBankBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="217" x="1098" y="621"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.androidhive.androidlistviewwithsearch.DiamondBankBranches" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/DiamondBankBranches.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="202" x="814" y="207"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.androidhive.androidlistviewwithsearch.EcoBankBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/EcoBankBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="218" x="1040" y="209"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.androidhive.androidlistviewwithsearch.EnterpriseBankBranches" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/EnterpriseBankBranches.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="226" x="1086" y="844"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.androidhive.androidlistviewwithsearch.FCMBBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FCMBBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="223" x="842" y="948"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.androidhive.androidlistviewwithsearch.FidelityBankBranches" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FidelityBankBranches.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="204" x="574" y="630"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.androidhive.androidlistviewwithsearch.FirstBankBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FirstBankBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="196" x="640" y="846"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.androidhive.androidlistviewwithsearch.GTBankBranches" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/GTBankBranches.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="213" x="563" y="430"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.androidhive.androidlistviewwithsearch.FindATMs" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FindATMs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="187" x="66" y="583"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.androidhive.androidlistviewwithsearch.All_Atms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/All_Atms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="207" x="-70" y="783"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.androidhive.androidlistviewwithsearch.Diff_Atms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/Diff_Atms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="316" y="1041"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.androidhive.androidlistviewwithsearch.AccessBankAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/AccessBankAtms.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="232" x="462" y="1097"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.androidhive.androidlistviewwithsearch.CitiBankAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/CitiBankAtms.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="237" x="454" y="1371"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.androidhive.androidlistviewwithsearch.DiamondBankAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/DiamondBankAtms.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="241" x="191" y="1308"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.androidhive.androidlistviewwithsearch.EcoBankAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/EcoBankAtms.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="223" x="-79" y="1313"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.androidhive.androidlistviewwithsearch.EnterpriseBankAtms" 
+    project="NearestAtm" file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/EnterpriseBankAtms.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="221" x="-78" y="1131"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.androidhive.androidlistviewwithsearch.FCMBAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FCMBAtms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="157" width="225" x="-78" y="968"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.androidhive.androidlistviewwithsearch.FidelityBankAtms" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/FidelityBankAtms.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="187" x="444" y="869"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.androidhive.androidlistviewwithsearch.More" project="NearestAtm" 
+    file="/NearestAtm/src/com/androidhive/androidlistviewwithsearch/More.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="30" y="461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="27">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="28" name="mAppSectionsPagerAdapter"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <nesting id="38">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <dependency id="39">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <nesting id="41">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

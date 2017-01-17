@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Nearest Bank and Atm Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ATM and Bank Finder</string>
+    <string name="Share_Mail_Subject">Download Bank and ATM Finder now for free</string>
+    <string name="Share_Mail_Text">Kindly download the Bank and ATM Finder App which enables you to know banks and Atms within and outside your proximity, with a easy-to-use interface and which also comes for free.</string>
+    
+
+</resources>
